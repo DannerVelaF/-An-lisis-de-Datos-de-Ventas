@@ -253,9 +253,8 @@ plt.show()
 
 ## 📊 Dashboard en Power BI
 
-Se creó un dashboard en Power BI para representar los principales indicadores de rendimiento de ventas (KPIs) de forma interactiva.
+Se creó un dashboard en Power BI para representar los hallazagos presentados.
 
-🔗 **Enlace al dashboard:** [Agrega el enlace si está disponible públicamente]  
 📷 **Vista previa del dashboard:**
 
 ![image](https://github.com/user-attachments/assets/2b4b584c-1cf7-49cc-a1a9-b5c8c87984f3)
